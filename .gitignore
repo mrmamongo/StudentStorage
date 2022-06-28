@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# Clion files and directories
+cmake-*
+.idea
+
+#Visual Studio files and directories
+*build*
+.vs
